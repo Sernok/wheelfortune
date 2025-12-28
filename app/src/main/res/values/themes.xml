@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ИЛИ Вариант B: Простая AppCompat тема -->
+    <style name="Theme.WheelFortune" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Дополнительные кастомизации -->
+    </style>
+
+</resources>
